@@ -1,44 +1,45 @@
-# 💬 WhatsApp Quick Open (+55 auto)
+# 💬 WhatsApp Quick Open (+55 auto Brazil code but you can change)
 
-Userscript para abrir rapidamente números selecionados no WhatsApp.
+Userscript to quickly open selected phone numbers in WhatsApp.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Seleciona qualquer número na página
-- Adiciona automaticamente o código do Brasil (+55)
-- Mostra um botão flutuante
-- Abre diretamente no WhatsApp Web
+- Select any number on a webpage
+- Automatically adds Brazil’s country code (+55)
+- Displays a floating button
+- Opens directly in WhatsApp Web
 
-## 🧠 Como funciona
+## 🧠 How it works
 
-1. Selecione um número em qualquer site
-2. Clique no botão "💬 WhatsApp"
-3. O chat abre automaticamente
+1. Select a phone number on any website
+2. Click the “💬 WhatsApp” button
+3. The chat opens automatically
 
-## 📦 Instalação
+## 📦 Installation
 
-1. Instale a extensão:
-   - Tampermonkey (Chrome, Edge)
-   - Violentmonkey (Firefox)
+1. Install the extension:
+ - Tampermonkey (Chrome, Edge)
+ - Violentmonkey (Firefox)
+ 
+2. Create a new script
 
-2. Crie um novo script
+3. Paste the contents of the script.user.js file
 
-3. Cole o conteúdo do arquivo `script.user.js`
+4. Save ✅
 
-4. Salve ✅
+## 📱 Usage example
 
-## 📱 Exemplo de uso
-
-Selecionando:
+Selecting:
 (11) 99999-9999
-Abre:
+
+Opens:
 https://wa.me/5571999999999
 
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
 - JavaScript
 - Tampermonkey
 
-## 📝 Licença
+## 📝 License
 
 MIT
