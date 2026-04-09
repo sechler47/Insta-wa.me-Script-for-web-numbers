@@ -1,6 +1,6 @@
 # 💬 WhatsApp Quick Open (+55 auto Brazil code but you can change)
 
-Userscript to quickly open selected phone numbers in WhatsApp.
+Userscript to quickly open selected phone numbers in WhatsApp Web.
 
 ## 🚀 Features
 
