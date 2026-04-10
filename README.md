@@ -35,6 +35,8 @@ Selecting:
 Opens:
 https://wa.me/5571999999999
 
+![Example](./images/WhatApp.gif)
+
 ## ⚙️ Technologies
 
 - JavaScript
