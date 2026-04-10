@@ -1,11 +1,11 @@
-# 💬 WhatsApp Quick Open (+55 auto Brazil code but you can change)
+# 💬 WhatsApp Quick Open
 
 Userscript to quickly open selected phone numbers in WhatsApp Web.
 
 ## 🚀 Features
 
 - Select any number on a webpage
-- Automatically adds Brazil’s country code (+55) or any other country code (must change it on script)
+- Automatically adds (Brazil)’s country code (+55) - you may change it to any other country code on script
 - Displays a floating button
 - Opens directly in WhatsApp Web
 
